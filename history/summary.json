@@ -22,18 +22,20 @@
     "url": "https://wiki.eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.eyeverse.world.ico",
     "slug": "eyeverse-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1185,
-    "timeDay": 10102,
-    "timeWeek": 3157,
-    "timeMonth": 1391,
-    "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "92.63%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.81%",
+    "time": 1169,
+    "timeDay": 6897,
+    "timeWeek": 2860,
+    "timeMonth": 1363,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2026-07-14": 106
+    }
   },
   {
     "name": "Blood of Ape",
