@@ -25,20 +25,20 @@
     "url": "https://wiki.eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.eyeverse.world.ico",
     "slug": "eyeverse-wiki",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.86%",
-    "time": 1224,
-    "timeDay": 6573,
-    "timeWeek": 2209,
-    "timeMonth": 1597,
-    "timeYear": 1224,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.74%",
+    "time": 1220,
+    "timeDay": 4705,
+    "timeWeek": 2071,
+    "timeMonth": 1579,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2026-07-14": 106,
-      "2026-07-28": 0
+      "2026-07-28": 90
     }
   },
   {
