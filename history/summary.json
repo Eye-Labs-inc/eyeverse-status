@@ -6,9 +6,9 @@
     "slug": "eyeverse-world",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "97.15%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "97.14%",
     "uptimeYear": "98.66%",
     "time": 404,
     "timeDay": 458,
@@ -26,7 +26,7 @@
       "2026-08-06": 150,
       "2026-08-07": 82,
       "2026-08-08": 58,
-      "2026-08-09": 3
+      "2026-08-09": 8
     }
   },
   {
@@ -55,7 +55,7 @@
     "url": "https://bloodofape.eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/bloodofape.eyeverse.world.ico",
     "slug": "blood-of-ape",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "96.40%",
     "uptimeWeek": "91.84%",
