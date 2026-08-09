@@ -13,7 +13,7 @@
     "time": 404,
     "timeDay": 458,
     "timeWeek": 399,
-    "timeMonth": 445,
+    "timeMonth": 449,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2026-07-18": 46,
@@ -43,7 +43,7 @@
     "time": 1156,
     "timeDay": 653,
     "timeWeek": 783,
-    "timeMonth": 1572,
+    "timeMonth": 1593,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2026-07-14": 106,
@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bloodofape.eyeverse.world.ico",
     "slug": "blood-of-ape",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "96.40%",
     "uptimeWeek": "91.84%",
     "uptimeMonth": "97.61%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 477,
     "timeDay": 285,
     "timeWeek": 874,
@@ -92,7 +92,7 @@
     "time": 213,
     "timeDay": 148,
     "timeWeek": 244,
-    "timeMonth": 220,
+    "timeMonth": 222,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -110,7 +110,7 @@
     "time": 207,
     "timeDay": 165,
     "timeWeek": 191,
-    "timeMonth": 219,
+    "timeMonth": 221,
     "timeYear": 207,
     "dailyMinutesDown": {}
   }
