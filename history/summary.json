@@ -4,11 +4,11 @@
     "url": "https://eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/eyeverse.world.ico",
     "slug": "eyeverse-world",
-    "status": "up",
+    "status": "down",
     "uptime": "98.40%",
-    "uptimeDay": "79.33%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "78.98%",
+    "uptimeWeek": "88.77%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "98.40%",
     "time": 396,
     "timeDay": 347,
@@ -26,7 +26,7 @@
       "2026-08-06": 150,
       "2026-08-07": 82,
       "2026-08-08": 58,
-      "2026-08-09": 264
+      "2026-08-09": 269
     }
   },
   {
@@ -55,7 +55,7 @@
     "url": "https://bloodofape.eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/bloodofape.eyeverse.world.ico",
     "slug": "blood-of-ape",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
     "uptimeDay": "82.01%",
     "uptimeWeek": "89.59%",
