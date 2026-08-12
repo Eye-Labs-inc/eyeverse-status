@@ -4,17 +4,17 @@
     "url": "https://eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/eyeverse.world.ico",
     "slug": "eyeverse-world",
-    "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "88.30%",
-    "uptimeWeek": "86.67%",
-    "uptimeMonth": "94.75%",
-    "uptimeYear": "97.67%",
-    "time": 406,
-    "timeDay": 327,
-    "timeWeek": 386,
-    "timeMonth": 440,
-    "timeYear": 406,
+    "status": "up",
+    "uptime": "97.66%",
+    "uptimeDay": "88.31%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "94.72%",
+    "uptimeYear": "97.66%",
+    "time": 404,
+    "timeDay": 307,
+    "timeWeek": 385,
+    "timeMonth": 418,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2026-07-18": 46,
       "2026-07-25": 66,
@@ -29,7 +29,7 @@
       "2026-08-09": 286,
       "2026-08-10": 274,
       "2026-08-11": 341,
-      "2026-08-12": 153
+      "2026-08-12": 165
     }
   },
   {
@@ -45,8 +45,8 @@
     "uptimeYear": "99.80%",
     "time": 1124,
     "timeDay": 311,
-    "timeWeek": 677,
-    "timeMonth": 1528,
+    "timeWeek": 727,
+    "timeMonth": 1551,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2026-07-14": 106,
@@ -58,17 +58,17 @@
     "url": "https://bloodofape.eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/bloodofape.eyeverse.world.ico",
     "slug": "blood-of-ape",
-    "status": "down",
-    "uptime": "98.00%",
+    "status": "up",
+    "uptime": "97.99%",
     "uptimeDay": "89.65%",
-    "uptimeWeek": "88.06%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "98.00%",
-    "time": 440,
-    "timeDay": 519,
-    "timeWeek": 428,
-    "timeMonth": 445,
-    "timeYear": 440,
+    "uptimeWeek": "87.94%",
+    "uptimeMonth": "95.46%",
+    "uptimeYear": "97.99%",
+    "time": 437,
+    "timeDay": 438,
+    "timeWeek": 423,
+    "timeMonth": 440,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2026-07-18": 41,
       "2026-07-25": 61,
@@ -81,7 +81,7 @@
       "2026-08-09": 230,
       "2026-08-10": 252,
       "2026-08-11": 316,
-      "2026-08-12": 134
+      "2026-08-12": 146
     }
   },
   {
@@ -97,8 +97,8 @@
     "uptimeYear": "100.00%",
     "time": 213,
     "timeDay": 127,
-    "timeWeek": 214,
-    "timeMonth": 228,
+    "timeWeek": 203,
+    "timeMonth": 224,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -115,8 +115,8 @@
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 162,
-    "timeWeek": 192,
-    "timeMonth": 219,
+    "timeWeek": 194,
+    "timeMonth": 220,
     "timeYear": 207,
     "dailyMinutesDown": {}
   }
