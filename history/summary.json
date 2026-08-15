@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eyeverse.world.ico",
     "slug": "eyeverse-world",
     "status": "down",
-    "uptime": "97.13%",
-    "uptimeDay": "85.55%",
-    "uptimeWeek": "82.78%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "97.13%",
-    "time": 419,
+    "uptime": "97.12%",
+    "uptimeDay": "84.92%",
+    "uptimeWeek": "82.69%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "97.12%",
+    "time": 418,
     "timeDay": 267,
     "timeWeek": 457,
-    "timeMonth": 412,
-    "timeYear": 419,
+    "timeMonth": 409,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2026-07-18": 46,
       "2026-07-25": 66,
@@ -32,7 +32,7 @@
       "2026-08-12": 165,
       "2026-08-13": 281,
       "2026-08-14": 224,
-      "2026-08-15": 132
+      "2026-08-15": 141
     }
   },
   {
@@ -61,17 +61,17 @@
     "url": "https://bloodofape.eyeverse.world",
     "icon": "https://icons.duckduckgo.com/ip3/bloodofape.eyeverse.world.ico",
     "slug": "blood-of-ape",
-    "status": "down",
+    "status": "up",
     "uptime": "97.53%",
-    "uptimeDay": "89.25%",
-    "uptimeWeek": "84.96%",
-    "uptimeMonth": "94.22%",
+    "uptimeDay": "88.61%",
+    "uptimeWeek": "84.87%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "97.53%",
-    "time": 424,
-    "timeDay": 318,
-    "timeWeek": 319,
-    "timeMonth": 425,
-    "timeYear": 424,
+    "time": 421,
+    "timeDay": 287,
+    "timeWeek": 313,
+    "timeMonth": 420,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2026-07-18": 41,
       "2026-07-25": 61,
@@ -87,7 +87,7 @@
       "2026-08-12": 134,
       "2026-08-13": 261,
       "2026-08-14": 175,
-      "2026-08-15": 118
+      "2026-08-15": 127
     }
   },
   {
