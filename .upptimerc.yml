@@ -9,12 +9,12 @@ sites:
     # Miraheze answers GitHub Actions runners with 403. Check from a Globalping probe instead.
     url: https://wiki.eyeverse.world/wiki/Main_Page
     type: globalping
-  - name: Eyeverse Metadata
-    url: https://metadata.eyeverse.world
   - name: Eyeverse Hodlr
     url: https://hodlr.eyeverse.world
   - name: Brace Arcade
     url: https://bracegaming.xyz
+  - name: Eyeverse Metadata
+    url: https://metadata.eyeverse.world
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,6 +30,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  i18n:
+    # en-GB → incident headings/dates as dd/mm/yyyy
+    locale: en-GB
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
