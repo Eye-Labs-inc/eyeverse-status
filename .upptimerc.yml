@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.eyeverse.world
   # baseUrl: /your-repo-name
-  logoUrl: https://eyeverse.world/wp-content/uploads/2023/01/ezgif.com-gif-maker.gif
+  logoUrl: https://eyeverse.world/assets/shared/img/brand/logo.gif
   name: Eyeverse Status
   introTitle: "**Eyeverse Status** is our open-source uptime monitor and status page"
   introMessage: This status page uses **real-time** data from our GitHub repository. No server required — just GitHub Actions, Issues and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
